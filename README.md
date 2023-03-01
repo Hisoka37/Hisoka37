@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **kabboussaw@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
