@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kabboussaw@gmail.com**
 
-- 👯 I’m looking to collaborate on Software Development Projects** 
+- 👯 I’m looking to collaborate on Software Development Projects. 
 
 
 <h3 align="left">Connect with me:</h3>
