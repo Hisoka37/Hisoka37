@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Ruby, Ruby on Rails,**
 
-- 👨‍💻 All of my projects are available at [https://hisoka37.github.io/My-Portfolio/](https://hisoka37.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://hisoka37.github.io/My-Portfolio/)
 
 - 📫 How to reach me **kabboussaw@gmail.com**
 
