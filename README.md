@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kbwalid9" target="blank"><img src="https://img.shields.io/twitter/follow/kbwalid9?logo=twitter&style=for-the-badge" alt="kbwalid9" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby, Ruby on Rails, SQL, **
+- 🌱 I’m currently learning **Ruby, Ruby on Rails, SQL**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://hisoka37.github.io/My-Portfolio/)
 
