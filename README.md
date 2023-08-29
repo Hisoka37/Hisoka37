@@ -1,15 +1,15 @@
  ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif) 
 <h1 align="center">Hi 👋, I'm Walid Kabboussa</h1>
-<h3 align="center">A passionate Full stack developer from Morocco.I have a great passion for learning new languages, frameworks and technologies.</h3>
+<h3 align="center">A Certified Full stack developer from Morocco. I have a great passion for learning new languages, frameworks, and technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hisoka37&label=Profile%20views&color=0e75b6&style=flat" alt="hisoka37" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kbwalid9" target="blank"><img src="https://img.shields.io/twitter/follow/kbwalid9?logo=twitter&style=for-the-badge" alt="kbwalid9" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby, Ruby on Rails, SQL**
+- 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://hisoka37.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://hisoka37.github.io/Digital_Resume)
 
 - 📫 How to reach me **kabboussaw@gmail.com**
 
