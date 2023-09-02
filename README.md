@@ -1,6 +1,6 @@
  ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif) 
 <h1 align="center">Hi 👋, I'm Walid Kabboussa</h1>
-<h3 align="center">A Certified Full stack developer from Morocco. I have a great passion for learning new languages, frameworks, and technologies.</h3>
+<h3 align="center"> I'm a Certified Full Stack Developer based in Morocco, driven by an unwavering passion for continually expanding my expertise across various programming languages, pioneering frameworks, and the latest in tech innovations. 🌟</h3>
 <img align="right" alt="Coding" width="400" src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hisoka37&label=Profile%20views&color=0e75b6&style=flat" alt="hisoka37" /> </p>
