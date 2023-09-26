@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://hisoka37.github.io/Digital_Resume)
+- 👨‍💻 All of my projects are available at [Portfolio](https://walidkabboussa.tech/)
 
 - 📫 How to reach me **kabboussaw@gmail.com**
 
