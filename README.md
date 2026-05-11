@@ -59,11 +59,6 @@
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/TypeORM-262627?style=flat-square&logo=typeorm&logoColor=white" alt="TypeORM" />
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-    </td>
   </tr>
   <tr>
     <th align="left">Database</th>
@@ -85,7 +80,7 @@
     </td>
     <td>
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-      <img src="https://img.shields.io/badge/MCP-0F172A?style=flat-square" alt="Model Context Protocol (MCP)" />
+      <img src="https://img.shields.io/badge/Model%20Context%20Protocol-0F172A?style=flat-square" alt="Model Context Protocol" />
       <img src="https://img.shields.io/badge/Vector%20Search-7C3AED?style=flat-square&logo=algolia&logoColor=white" alt="Vector Search" />
       <img src="https://img.shields.io/badge/RAG-9333EA?style=flat-square" alt="RAG" />
     </td>
