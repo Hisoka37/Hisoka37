@@ -71,17 +71,15 @@
       <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapi-initiative&logoColor=white" alt="OpenAPI" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" alt="OpenAI" />
       <img src="https://img.shields.io/badge/MCP-0F172A?style=flat-square" alt="Model Context Protocol (MCP)" />
-      <img src="https://img.shields.io/badge/Vector%20Search-7C3AED?style=flat-square&logo=algolia&logoColor=white" alt="Vector Search" />
+      <img src="https://img.shields.io/badge/Vector%20Search-7C3AED?style=flat-square" alt="Vector Search" />
     </td>
     <td>
-      <ul>
-        <li>AI integrations in production applications</li>
-        <li>Scalable backend architecture</li>
-        <li>Real-time systems & hiring platforms</li>
-        <li>Developer tooling and automation</li>
-      </ul>
+      <img src="https://img.shields.io/badge/AI%20Integrations-0EA5E9?style=flat-square" alt="AI integrations" /><br />
+      <img src="https://img.shields.io/badge/Backend%20Architecture-10B981?style=flat-square" alt="Backend architecture" /><br />
+      <img src="https://img.shields.io/badge/Real--time%20Systems-F59E0B?style=flat-square" alt="Real-time systems" /><br />
+      <img src="https://img.shields.io/badge/Developer%20Tooling-6366F1?style=flat-square" alt="Developer tooling" />
     </td>
   </tr>
 </table>
