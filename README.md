@@ -1,32 +1,119 @@
- ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif) 
-<h1 align="center">Hi 👋, I'm Walid Kabboussa</h1>
-<h3 align="center">I am a Software Developer from Morocco, passionate about exploring various programming languages, frameworks, and the latest tech trends to create practical solutions.🚀🌟</h3>
-<img align="right" alt="Coding" width="400" src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hisoka37&label=Profile%20views&color=0e75b6&style=flat" alt="hisoka37" /> </p>
+<h1 align="center">
+  Hey, I'm Walid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+</h1>
 
-<p align="left"> <a href="https://twitter.com/kbwalid9" target="blank"><img src="https://img.shields.io/twitter/follow/kbwalid9?logo=twitter&style=for-the-badge" alt="kbwalid9" /></a> </p>
+<h3 align="center">
+  Full-stack engineer from Morocco 🇲🇦 — building scalable web apps with AI at the core.
 
-- 🌱 I’m currently learning **Express.js/Next.js**
+  AI agents, RAG systems, workflow automation & LLM-powered tools
+</h3>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://walidkabboussa.tech/)
-
-- 📫 How to reach me **kabboussaw@gmail.com**
-
-- 👯 I’m looking to collaborate on Software Development Projects. 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kbwalid9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kbwalid9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/walidkb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walidkb" height="30" width="40" /></a>
+<p align="center">
+  <a href=""><img src="https://img.shields.io/badge/Portfolio-walidkabboussa-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/walidkb"><img src="https://img.shields.io/badge/LinkedIn-walidkb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/kbwalid9"><img src="https://img.shields.io/badge/Twitter-@kbwalid9-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:kabboussaw@gmail.com"><img src="https://img.shields.io/badge/Email-kabboussaw@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=560&lines=Next.js+%E2%80%A2+NestJS+%E2%80%A2+TypeScript;PostgreSQL+%E2%80%A2+Prisma+%E2%80%A2+TypeORM;Designing+AI-powered+SaaS+products;Always+shipping%2C+always+learning." alt="Typing SVG" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hisoka37&show_icons=true&locale=en&layout=compact" alt="hisoka37" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hisoka37&show_icons=true&locale=en" alt="hisoka37" /></p>
+### 🧠 About me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hisoka37&" alt="hisoka37" /></p>
+```yaml
+location:    Morocco 🇲🇦
+role:        Full-stack engineer
+focus:       Backend architecture, AI integrations, scalable SaaS
+mindset:     Clean APIs, type safety, developer velocity
+exploring:   Advanced Nest.js & Next.js patterns
+side-quest:  System design • MCPs • AI workflows • dev tooling
+```
+
+---
+
+### 🛠️ Tech stack
+
+<table>
+  <tr>
+    <td><b>&nbsp;Frontend&nbsp;</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+      <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>&nbsp;Backend&nbsp;</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>&nbsp;Database&nbsp;</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeORM-FE0902?style=flat-square&logo=typeorm&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>&nbsp;Tools&nbsp;</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" />
+    </td>
+  </tr>
+ <tr>
+  <tr>
+    <td><b>&nbsp;Workflows&nbsp;</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+      <img src="https://img.shields.io/badge/Automation-0EA5E9?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Event--driven-1F2937?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+    <td><b>&nbsp;AI / LLMs&nbsp;</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=white" />
+      <img src="https://img.shields.io/badge/RAG-10B981?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 What I build
+
+- 🤖 AI agents & multi-agent systems with LLMs (OpenAI, Claude, Ollama)
+- ⚡Scalable backends with NestJS, PostgreSQL, and clean API design
+- 🧩RAG pipelines, vector search, and knowledge-grounded applications
+- 🛠️ Workflow automation with n8n, REST APIs, and MCP integrations
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hisoka37&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=450" /> -->
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Hisoka37&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidkb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=445" />
+</p> -->
+
+---
+
+<p align="center">
+  <i>Build things that scale. Ship things that matter.</i>
+</p>
