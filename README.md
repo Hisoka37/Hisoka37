@@ -76,10 +76,12 @@
       <img src="https://img.shields.io/badge/Vector%20Search-7C3AED?style=flat-square&logo=algolia&logoColor=white" alt="Vector Search" />
     </td>
     <td>
-      AI integrations inside production apps<br />
-      Scalable backend architecture<br />
-      Real-time systems & hiring platforms<br />
-      Developer tooling and automation
+      <ul>
+        <li>AI integrations inside production apps</li>
+        <li>Scalable backend architecture</li>
+        <li>Real-time systems & hiring platforms</li>
+        <li>Developer tooling and automation</li>
+      </ul>
     </td>
   </tr>
 </table>
