@@ -37,15 +37,21 @@
 
 <table>
   <tr>
+    <th align="left">Languages</th>
     <th align="left">Frontend</th>
     <th align="left">Backend</th>
-    <th align="left">Database</th>
   </tr>
   <tr>
     <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby" />
+    </td>
+    <td>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0D1117" alt="React" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
       <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
     </td>
     <td>
@@ -60,29 +66,38 @@
     </td>
   </tr>
   <tr>
+    <th align="left">Database</th>
     <th align="left">Tools</th>
     <th align="left">AI / Infra</th>
-    <th align="left">Current focus</th>
   </tr>
   <tr>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/TypeORM-262627?style=flat-square&logo=typeorm&logoColor=white" alt="TypeORM" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+    </td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapi-initiative&logoColor=white" alt="OpenAPI" />
+      <img src="https://img.shields.io/badge/Claude%20Code-111827?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+      <img src="https://img.shields.io/badge/n8n%20Workflows-FF6D00?style=flat-square&logo=n8n&logoColor=white" alt="n8n workflows" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
       <img src="https://img.shields.io/badge/MCP-0F172A?style=flat-square" alt="Model Context Protocol (MCP)" />
-      <img src="https://img.shields.io/badge/Vector%20Search-7C3AED?style=flat-square" alt="Vector Search" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/AI%20Integrations-0EA5E9?style=flat-square" alt="AI integrations" /><br />
-      <img src="https://img.shields.io/badge/Backend%20Architecture-10B981?style=flat-square" alt="Backend architecture" /><br />
-      <img src="https://img.shields.io/badge/Real--time%20Systems-F59E0B?style=flat-square" alt="Real-time systems" /><br />
-      <img src="https://img.shields.io/badge/Developer%20Tooling-6366F1?style=flat-square" alt="Developer tooling" />
+      <img src="https://img.shields.io/badge/Vector%20Search-7C3AED?style=flat-square&logo=algolia&logoColor=white" alt="Vector Search" />
+      <img src="https://img.shields.io/badge/RAG-9333EA?style=flat-square" alt="RAG" />
     </td>
   </tr>
 </table>
+
+## Current focus
+
+- AI integrations in production applications
+- Scalable backend architecture
+- Real-time systems & hiring platforms
+- Developer tooling and automation
 
 ## GitHub stats
 
