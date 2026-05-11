@@ -84,13 +84,6 @@
   </tr>
 </table>
 
-## Current focus
-
-- AI integrations inside production apps
-- Scalable backend architecture
-- Real-time systems & hiring platforms
-- Developer tooling and automation
-
 ## GitHub stats
 
 <div align="center">
