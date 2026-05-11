@@ -72,7 +72,7 @@
     </td>
     <td>
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-      <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-0F172A?style=flat-square" alt="MCP (Model Context Protocol)" />
+      <img src="https://img.shields.io/badge/MCP-0F172A?style=flat-square" alt="Model Context Protocol (MCP)" />
       <img src="https://img.shields.io/badge/Vector%20Search-7C3AED?style=flat-square&logo=algolia&logoColor=white" alt="Vector Search" />
     </td>
     <td>
