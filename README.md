@@ -31,7 +31,7 @@
 - Building modern SaaS and AI-powered applications
 - Focused on backend architecture, clean APIs, and scalable systems
 - Interested in system design, MCPs, AI workflows, and developer tooling
-- Currently learning: Express.js / Next.js advanced patterns
+- Currently deepening: Express.js & Next.js advanced patterns
 
 ## Tech stack
 
