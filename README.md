@@ -72,12 +72,12 @@
     </td>
     <td>
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-      <img src="https://img.shields.io/badge/MCP-0F172A?style=flat-square&logo=protocols.io&logoColor=white" alt="MCP" />
+      <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-0F172A?style=flat-square" alt="MCP (Model Context Protocol)" />
       <img src="https://img.shields.io/badge/Vector%20Search-7C3AED?style=flat-square&logo=algolia&logoColor=white" alt="Vector Search" />
     </td>
     <td>
       <ul>
-        <li>AI integrations inside production apps</li>
+        <li>AI integrations in production applications</li>
         <li>Scalable backend architecture</li>
         <li>Real-time systems & hiring platforms</li>
         <li>Developer tooling and automation</li>
