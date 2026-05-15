@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Full-stack engineer from Morocco 🇲🇦 — building scalable web apps with AI at the core.
+  Full-Stack Engineer from Morocco 🇲🇦 — Engineering High-Performance Web Apps Driven by Core AI.
 
   AI agents, RAG systems, workflow automation & LLM-powered tools
 </h3>
